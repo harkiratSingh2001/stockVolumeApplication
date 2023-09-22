@@ -12,7 +12,7 @@ import javax.json.JsonReader;
 
 /**
  * Backend class to be called from MainActivity
- * Created by Punit on 10/30/2016.
+ * Created by Harkirat and Parminder.
  */
 
 public class GetVolumes {

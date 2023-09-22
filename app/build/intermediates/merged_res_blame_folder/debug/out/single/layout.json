@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-38:/layout/activity_main.xml",
+        "source": "com.example.myapplication.app-main-41:/layout/activity_main.xml"
+    }
+]

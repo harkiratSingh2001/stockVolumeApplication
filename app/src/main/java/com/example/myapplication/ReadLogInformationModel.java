@@ -21,7 +21,7 @@ import java.util.logging.Logger;
  * This the the model class that will read information for the dashboard. This
  * class will be used only for the reading from the database.
  *
- * @author Punit Citation:
+ * @author Harkirat and Parminder Citation:
  * https://www.mkyong.com/mongodb/java-mongodb-insert-a-document/
  * http://www.mkyong.com/mongodb/java-mongodb-hello-world-example/
  */

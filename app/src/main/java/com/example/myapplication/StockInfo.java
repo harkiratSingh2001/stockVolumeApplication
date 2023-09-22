@@ -2,7 +2,7 @@ package com.example.myapplication;
 
 /**
  * This is a POJO object only used to pass the information between MainActivity and GetVolumes classes
- * Created by Punit on 10/31/2016.
+ * Created by Harkirat and Parminder.
  */
 
 public class StockInfo {
